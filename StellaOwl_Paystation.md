@@ -1,15 +1,19 @@
-Project Abstract
-A one-paragraph description of the overall project 
+# Pay Station
 
-Project Relevance
-A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)
+## Project Abstract
+_At least one paragraph description of the overall project. Include a UML use case diagram._ 
 
-Conceptual Design
+![Use Case Image](StellaOwl_PayStation.png)
+
+## Project Relevance
+_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
+
+## Conceptual Design
 A one-paragraph description of your proposed contribution
 
-Background
+## Background
 A URL reference to the project
 
-Required Resources
-Group members
-Hardware and software resource required
+## Required Resources
+- Group members
+- Hardware and software resource required
