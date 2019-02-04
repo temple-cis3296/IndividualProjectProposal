@@ -1,2 +1,0 @@
-# IndividualProjectProposal
-Individual Subject Proposal
