@@ -1,0 +1,15 @@
+Project Abstract
+A one-paragraph description of the overall project 
+
+Project Relevance
+A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)
+
+Conceptual Design
+A one-paragraph description of your proposed contribution
+
+Background
+A URL reference to the project
+
+Required Resources
+Group members
+Hardware and software resource required
