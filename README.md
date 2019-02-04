@@ -3,7 +3,7 @@
 ## Each project proposal contains:
 
 - A one paragraph description of the overall project
-- A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptxPreview the document ).
+- A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx).
 - A one paragraph description of your proposed contribution
 - A URL reference to the project
 
