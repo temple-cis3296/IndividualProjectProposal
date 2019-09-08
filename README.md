@@ -9,9 +9,11 @@
 
 Note: contributing to an open-source project is preferred. You may propose a stand-alone project, but if you do, it must be submitted as an open-source project.
 
-Note: in picking an open-source project you should down-load the source and make sure that you can build the code before committing to use it in your project.
+Note: in picking an open-source project you should download the source and make sure that you can build the code before committing to use it in your project. You should also 
 
 Note: this is an individual assignment all students have to come with a personal proposal.  Teams will be formed later to work on a selection of the more interesting proposals. 
+
+Note: if selected in a later stage, a team of four students will be formed to realize the proposal. You will be able to choose any teammate even if you have already worked with them on a previous assignment.
 
 ## What to submit
 Create two new files named **YourName_ProjectTitle.md** and **YourName_ProjectTitle.png** for your proposal. Use [StellaOwl_PayStation.md](StellaOwl_Paystation.md) as a template. 
