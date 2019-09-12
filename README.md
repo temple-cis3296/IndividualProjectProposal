@@ -9,7 +9,7 @@
 
 Note: contributing to an open-source project is preferred. You may propose a stand-alone project, but if you do, it must be submitted as an open-source project.
 
-Note: in picking an open-source project you should download the source and make sure that you can build the code before committing to use it in your project. You should also 
+Note: in picking an open-source project you should download the source and make sure that you can build the code before committing to use it in your project.  
 
 Note: this is an individual assignment all students have to come with a personal proposal.  Teams will be formed later to work on a selection of the more interesting proposals. 
 
