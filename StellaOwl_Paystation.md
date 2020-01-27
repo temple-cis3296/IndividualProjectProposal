@@ -16,7 +16,7 @@ _A URL reference to the project. Add text on how to build and run succesfully._
 
 <https://github.com/temple-cis3296/MainPaystationLab>
 
-**Building**
+***Building***
 - Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
 - Select pom.xml when opening project in NetBeans 11. 
 - First build is taking a long time as it is downloading many things but eventually succeed.
@@ -26,5 +26,5 @@ _A URL reference to the project. Add text on how to build and run succesfully._
 - Select "Run Tests" from Run menu in NetBeans. 
 
 ## Required Resources
-- Group members
-- Hardware and software resource required
+- _Group members competencies_
+- _Hardware and software resource required_
