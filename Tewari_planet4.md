@@ -1,4 +1,4 @@
-Planet4
+Planet4: Website Builder and Digital Engagement Platform- OS Contribution
 
 Project Abstract: 
 Planet4 is an open source software project by Greenpeace. Planet4 is a global engagement platform which enables Greenpeace supporters and activists to interact and
